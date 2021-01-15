@@ -4,12 +4,12 @@ KorfLab
 Welcome to the home page of Ian Korf's research group at UC Davis. Our
 lab uses computational methods to study problems in molecular biology.
 More specifically, we are interested in the mappings from structure to
-function (e.g. genotype to phenotype). We are particularly interested in
-discerning signal from noise. Our favorite topics include gene
-prediction, intron function, gene expression, sequence alignment,
-protein-DNA interactions, motif-finding, NMR analysis, genome assembly,
-repeat analysis, and almost anything that mixes genotype and phenotype.
-We love developing new methods in emerging disciplines but also love the
+function. We are particularly interested in discerning biological signal
+from biological noise. Our favorite topics include gene prediction,
+intron function, gene expression, sequence alignment, protein-DNA
+interactions, motif-finding, NMR analysis, genome assembly, repeat
+analysis, and almost anything that mixes genotype and phenotype. We love
+developing new methods in emerging disciplines but also love the
 classics.
 
 ## People ##
@@ -25,9 +25,10 @@ classics.
 + Reese Carlson - intern
 + Oliver Tucher - intern
 
-Interested in joining the lab? Great. I look for shared interests and
-passion more than a specific skill set. You don't have to be a good
-programmer to join the lab (but you will have to become one).
+Interested in joining the lab? Great, send me an email. I look for
+shared interests and passion more than a specific skill set. You don't
+have to be a good programmer to join the lab (but you will have to
+become one).
 
 ![KorfLab 2020](2020.png)
 
@@ -51,7 +52,7 @@ listed below.
 
 ## Alumni ##
 
-If you're a former member of the lab and you name doesn't appear on this
+If you're a former member of the lab and your name doesn't appear on this
 list, please send me an email. I always like hearing from former
 students.
 
@@ -148,6 +149,6 @@ Other
 
 + Smaug
 
-For some odd reason, Smaug used to be featured on our home page. He's gone now, but not forgotten.
+For some odd reason, Smaug (the dragon) used to be featured on our lab page. He's gone now, but not forgotten.
 
 
