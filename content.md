@@ -18,12 +18,19 @@ classics.
 + Keith Fraga - PhD student
 + Osman Sharifi - PhD student
 + Ismael Acedo - PhD student
-+ Tasha Mariano - intern
-+ Amalia Karesh - intern
-+ Lily Karim - intern
-+ Lilth Marinho-Davis - intern
-+ Reese Carlson - intern
-+ Oliver Tucher - intern
++ Viki Haghani - PhD student
++ Tasha Mariano - PREP student
++ Amalia Karesh - volunteer
++ Lily Karim - volunteer
++ Oliver Tucher - volunteer
++ Brandon Hom - intern
++ Aditi Goyal - intern
++ Camille Reed - intern
++ Katherine Chiu - intern
++ Meghana Manepalli - intern
++ Nivedita Attada - intern
++ Alan Zhang - intern
++ Surya Vishnubhatt - intern
 
 Interested in joining the lab? Great, send me an email. I look for
 shared interests and passion more than a specific skill set. You don't
@@ -119,6 +126,11 @@ Undergraduates
 + Juan Marcucci
 + Laruen Kim Sing
 + Tiffany Hong
++ Alex Kramer
++ Arwin Lashawn
++ Trevor Chan
++ Lilth Marinho-Davis
++ Reese Carlson
 
 High School (YSP)
 
@@ -139,6 +151,8 @@ High School (YSP)
 + Gaby Berman
 + Joy Liu
 + Kaitlin Lim
++ Amber Henny
++ Daniel Zhu
 
 High School (non-YSP)
 
