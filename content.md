@@ -15,22 +15,26 @@ classics.
 ## People ##
 
 + Ian Korf - PI
-+ Keith Fraga - PhD student
-+ Osman Sharifi - PhD student
-+ Ismael Acedo - PhD student
-+ Viki Haghani - PhD student
-+ Tasha Mariano - PREP student
-+ Amalia Karesh - volunteer
-+ Lily Karim - volunteer
-+ Oliver Tucher - volunteer
-+ Brandon Hom - intern
-+ Aditi Goyal - intern
-+ Camille Reed - intern
-+ Katherine Chiu - intern
-+ Meghana Manepalli - intern
-+ Nivedita Attada - intern
-+ Alan Zhang - intern
-+ Surya Vishnubhatt - intern
++ PhD students
+	+ Keith Fraga
+	+ Osman Sharifi
+	+ Viki Haghani
+	+ Ismael Acedo
++ Undergraduates
+	+ Nivedita Attada
+	+ Katherine Chiu
+	+ Aditi Goyal
+	+ Brandon Hom
+	+ Meghana Manepalli
+	+ Camille Reed
+	+ Surya Vishnubhatt
+	+ Alan Zhang
++ External pre-doctoral collaborators
+	+ Amalia Karesh
+	+ Lily Karim
+	+ Alex Kramer
+	+ Tasha Mariano
+	+ Oliver Tucher
 
 Interested in joining the lab? Great, send me an email. I look for
 shared interests and passion more than a specific skill set. You don't
