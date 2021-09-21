@@ -27,6 +27,7 @@ classics.
 	+ Brandon Hom
 	+ Meghana Manepalli
 	+ Camille Reed
+	+ Shruthi Somasundaram
 	+ Surya Vishnubhatt
 	+ Alan Zhang
 + External pre-doctoral collaborators
