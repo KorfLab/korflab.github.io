@@ -1,72 +1,70 @@
 KorfLab
 =======
 
-Welcome to the home page of Ian Korf's research group at UC Davis. Our
-lab uses computational methods to study problems in molecular biology.
-More specifically, we are interested in the mappings from structure to
-function. We are particularly interested in discerning biological signal
-from biological noise. Our favorite topics include gene prediction,
-intron function, gene expression, sequence alignment, protein-DNA
-interactions, motif-finding, NMR analysis, genome assembly, repeat
-analysis, and almost anything that mixes genotype and phenotype. We love
-developing new methods in emerging disciplines but also love the
-classics.
+Welcome to the home page of Ian Korf's research group at UC Davis. Our lab uses
+computational methods to study problems in molecular biology. More specifically,
+we are interested in the mappings from structure to function. We are
+particularly interested in discerning biological signal from biological noise.
+Our favorite topics include alternative splicing, gene prediction, intron
+function, gene expression, sequence alignment, protein-DNA interactions,
+motif-finding, NMR analysis, genome assembly, repeat analysis, and almost
+anything that mixes genotype, phenotype, evolution, and algorithms. We love
+developing new methods in emerging disciplines but also adore the classics.
 
 ## People ##
 
 + Ian Korf - PI
 + PhD students
-	+ Keith Fraga
 	+ Osman Sharifi
 	+ Viki Haghani
 	+ Ismael Acedo
+	+ Kelly Chau
+	+ Lilith Marinho-Davis
 + Undergraduates
 	+ Nivedita Attada
 	+ Katherine Chiu
 	+ Aditi Goyal
-	+ Brandon Hom
 	+ Meghana Manepalli
-	+ Camille Reed
-	+ Shruthi Somasundaram
-	+ Surya Vishnubhatt
 	+ Alan Zhang
+	+ Sreeram Sandrapati
 + External pre-doctoral collaborators
 	+ Amalia Karesh
-	+ Lily Karim
-	+ Alex Kramer
 	+ Tasha Mariano
 	+ Oliver Tucher
 
-Interested in joining the lab? Great, send me an email. I look for
-shared interests and passion more than a specific skill set. You don't
-have to be a good programmer to join the lab (but you will have to
-become one).
+Interested in joining the lab? Great, send me an email. I look for shared
+interests and passion more than a specific skill set. You don't have to be a
+good programmer to join the lab (but you will have to become one).
 
 ![KorfLab 2020](2020.png)
 
-Clockwise from left: Hannah Lyman (vocals), Ian Korf (guitar), Keith
-Fraga (bass), Osman Sharifi (drums). No, we are not actually a band but
-if Ian wants his lab to appear as if they have a shoegaze album, so be
-it.
+Clockwise from left: Hannah Lyman (vocals), Ian Korf (guitar), Keith Fraga
+(bass), Osman Sharifi (drums). No, we are not actually a band but if I want my
+lab to appear as if we have a shoegaze album, so be it.
+
+## Publications ##
+
+You can find a mostly up-to-date list of lab publications at my NIH
+[Bibliography Page.]
+(http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/40794927/?sort=date&direction=ascending)
 
 ## Downloads ##
 
 You can find some of our software and teaching materials on the [KorfLab
-GitHub](https://github.com/KorfLab). We have not yet moved all content
-to GitHub, but hope to one day. Some of our highly accessed products are
-listed below.
+GitHub](https://github.com/KorfLab). We have not yet moved all content to
+GitHub, but hope to one day. Some of our highly accessed products are listed
+below.
 
++ [StochHMM](https://github.com/KorfLab/StochHMM) HMM software
 + [SNAP](https://github.com/KorfLab/SNAP) gene prediction software
 + [Unix & Perl Primer for Biologists](https://github.com/KorfLab/unix_and_perl)
 + [IME](https://github.com/KorfLab/IME) intron mediated enhancement software
-+ [StochHMM](https://github.com/KorfLab/StochHMM) HMM software
-
 
 ## Alumni ##
 
-If you're a former member of the lab and your name doesn't appear on this
-list, please send me an email. I always like hearing from former
-students.
+If you're a former member of the lab and your name doesn't appear on this list,
+sorry for the omission. Please send me an email. I always like hearing from
+former students.
 
 Postdocs and Professional Researchers
 
@@ -94,6 +92,7 @@ PhD Students
 + Christopher Beitel
 + Sam Westreich
 + Hannah Lyman
++ Keith Fraga
 
 MS Students
 
@@ -132,10 +131,13 @@ Undergraduates
 + Laruen Kim Sing
 + Tiffany Hong
 + Alex Kramer
++ Lily Karim
 + Arwin Lashawn
 + Trevor Chan
-+ Lilth Marinho-Davis
 + Reese Carlson
++ Brandon Hom
++ Aryss Hearne
++ Surya Vishnubhatt
 
 High School (YSP)
 
@@ -168,6 +170,7 @@ Other
 
 + Smaug
 
-For some odd reason, Smaug (the dragon) used to be featured on our lab page. He's gone now, but not forgotten.
+For some odd reason, Smaug (the dragon) used to be featured on our lab page.
+He's gone now, but not forgotten.
 
 
