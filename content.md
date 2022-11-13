@@ -21,16 +21,17 @@ developing new methods in emerging disciplines but also adore the classics.
 	+ Kelly Chau
 	+ Lilith Marinho-Davis
 + Undergraduates
-	+ Nivedita Attada
-	+ Katherine Chiu
 	+ Aditi Goyal
 	+ Meghana Manepalli
 	+ Alan Zhang
 	+ Sreeram Sandrapati
-+ External pre-doctoral collaborators
-	+ Amalia Karesh
-	+ Tasha Mariano
-	+ Oliver Tucher
+	+ Nikki Moreno
+	+ Sai Suresh
+	+ William Gardner
+	+ Jenna Noueihead
+	+ Nicole Waring
+	+ Sarah Burton
+	+ Rutab Anjum
 
 Interested in joining the lab? Great, send me an email. I look for shared
 interests and passion more than a specific skill set. You don't have to be a
@@ -137,7 +138,10 @@ Undergraduates
 + Reese Carlson
 + Brandon Hom
 + Aryss Hearne
-+ Surya Vishnubhatt
++ Nivedita Attada
++ Katherine Chiu
++ Tasha Mariano
++ Amalia Karesh
 
 High School (YSP)
 
@@ -160,6 +164,9 @@ High School (YSP)
 + Kaitlin Lim
 + Amber Henny
 + Daniel Zhu
++ Ella Yee
++ Aasiya Zaidi
++ Andrew Chu
 
 High School (non-YSP)
 
