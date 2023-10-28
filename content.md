@@ -21,17 +21,11 @@ developing new methods in emerging disciplines but also adore the classics.
 	+ Kelly Chau
 	+ Lilith Marinho-Davis
 + Undergraduates
-	+ Aditi Goyal
+	+ Claire Hsieh
+	+ Dellaraam Pourkeramati
 	+ Meghana Manepalli
-	+ Alan Zhang
-	+ Sreeram Sandrapati
-	+ Nikki Moreno
-	+ Sai Suresh
-	+ William Gardner
-	+ Jenna Noueihead
-	+ Nicole Waring
+	+ Pearl Vishen
 	+ Sarah Burton
-	+ Rutab Anjum
 
 Interested in joining the lab? Great, send me an email. I look for shared
 interests and passion more than a specific skill set. You don't have to be a
@@ -142,6 +136,15 @@ Undergraduates
 + Katherine Chiu
 + Tasha Mariano
 + Amalia Karesh
++ Aditi Goyal
++ Meghana Manepalli
++ Alan Zhang
++ Sreeram Sandrapati
++ Nikki Moreno
++ Sai Suresh
++ William Gardner
++ Jenna Noueihead
+
 
 High School (YSP)
 
