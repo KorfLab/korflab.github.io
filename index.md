@@ -46,15 +46,24 @@ You can find a mostly up-to-date list of lab publications at my NIH
 
 ## Downloads ##
 
-You can find some of our software and teaching materials on the [KorfLab
-GitHub](https://github.com/KorfLab). We have not yet moved all content to
-GitHub, but hope to one day. Some of our highly accessed products are listed
-below.
+You can find some of our software and teaching materials at:
 
+[KorfLab GitHub](https://github.com/KorfLab)
+
+We have not yet moved all content to GitHub, but hope to one day. Some of our
+highly accessed products are listed below.
+
++ [MCB185](https://github.com/iankorf/MCB185)
++ [Unix & Perl Primer for Biologists](https://github.com/KorfLab/unix_and_perl)
 + [StochHMM](https://github.com/KorfLab/StochHMM) HMM software
 + [SNAP](https://github.com/KorfLab/SNAP) gene prediction software
-+ [Unix & Perl Primer for Biologists](https://github.com/KorfLab/unix_and_perl)
 + [IME](https://github.com/KorfLab/IME) intron mediated enhancement software
+
+## Books ##
+
++ ![](blast.png "BLAST")
++ ![](uap.png "Unix & Perl to the Rescue")
++ ![](ysar.png "You Suck at Racing")
 
 ## Alumni ##
 
