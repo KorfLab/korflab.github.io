@@ -1,6 +1,3 @@
-KorfLab
-=======
-
 Welcome to the home page of Ian Korf's research group at UC Davis. Our lab uses
 computational methods to study problems in molecular biology. More
 specifically, we are interested in the mappings from structure to function. We
