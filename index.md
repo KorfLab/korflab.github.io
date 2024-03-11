@@ -12,18 +12,19 @@ in emerging disciplines but also adore the classics.
 
 + Ian Korf - PI
 + PhD students
-	+ Osman Sharifi
-	+ Viki Haghani
-	+ Ismael Acedo
-	+ Kelly Chau
-	+ Lilith Marinho-Davis
+	+ [Osman Sharifi]()
+	+ [Viki Haghani](https://vhaghani26.github.io)
+	+ [Ismael Acedo](https://icacedo.github.io)
+	+ [Lilith Marinho-Davis]()
 + Undergraduates
-	+ Claire Hsieh
-	+ Dellaraam Pourkeramati
-	+ Kenta Hsu
-	+ Pearl Vishen
-	+ Riya Desai
-	+ Sarah Burton
+	+ [Claire Hsieh](https://claire-hsieh.github.io)
+	+ [Dellaraam Pourkeramati](https://dellaraam.github.io)
+	+ [Kenta Hsu](https://kjhsu1.github.io)
+	+ [Madison Sparks](https://madisonsparks.github.io)
+	+ [Pearl Vishen]()
+	+ [Riya Desai]()
+	+ [Sarah Burton]()
+	+ [Selene Han]()
 
 Interested in joining the lab? Great, send me an email. I look for shared
 interests and passion more than a specific skill set. You don't have to be a
