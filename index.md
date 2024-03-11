@@ -16,6 +16,7 @@ in emerging disciplines but also adore the classics.
 	+ [Viki Haghani](https://vhaghani26.github.io)
 	+ [Ismael Acedo](https://icacedo.github.io)
 	+ [Lilith Marinho-Davis]()
+	+ [Kelly Chau](https://kellychau.github.io)
 + Undergraduates
 	+ [Claire Hsieh](https://claire-hsieh.github.io)
 	+ [Dellaraam Pourkeramati](https://dellaraam.github.io)
