@@ -40,9 +40,9 @@ lab to appear as if we have a shoegaze album, so be it.
 
 ## Publications ##
 
-You can find a mostly up-to-date list of lab publications at my NIH
-[Bibliography Page.]
-(http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/40794927/?sort=date&direction=ascending)
+You can find a mostly up-to-date list of lab publications at my NIH Bibliography page:
+
+[Bibliography](http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/40794927/?sort=date&direction=ascending)
 
 ## Downloads ##
 
