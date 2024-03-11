@@ -2,14 +2,14 @@ KorfLab
 =======
 
 Welcome to the home page of Ian Korf's research group at UC Davis. Our lab uses
-computational methods to study problems in molecular biology. More specifically,
-we are interested in the mappings from structure to function. We are
-particularly interested in discerning biological signal from biological noise.
-Our favorite topics include alternative splicing, gene prediction, intron
-function, gene expression, sequence alignment, protein-DNA interactions,
-motif-finding, NMR analysis, genome assembly, repeat analysis, and almost
-anything that mixes genotype, phenotype, evolution, and algorithms. We love
-developing new methods in emerging disciplines but also adore the classics.
+computational methods to study problems in molecular biology. More
+specifically, we are interested in the mappings from structure to function. We
+are particularly interested in discerning biological signal from biological
+noise. Our favorite topics include alternative splicing, gene prediction,
+intron function, gene expression, sequence alignment, protein-DNA interactions,
+motif-finding, genome assembly, repeat analysis, and almost anything that mixes
+genotype, phenotype, evolution, and algorithms. We love developing new methods
+in emerging disciplines but also adore the classics.
 
 ## People ##
 
@@ -23,8 +23,9 @@ developing new methods in emerging disciplines but also adore the classics.
 + Undergraduates
 	+ Claire Hsieh
 	+ Dellaraam Pourkeramati
-	+ Meghana Manepalli
+	+ Kenta Hsu
 	+ Pearl Vishen
+	+ Riya Desai
 	+ Sarah Burton
 
 Interested in joining the lab? Great, send me an email. I look for shared
